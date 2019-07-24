@@ -1,0 +1,11 @@
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\bin\Debug\netcoreapp2.1\Lecture_8.deps.json
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\bin\Debug\netcoreapp2.1\Lecture_8.runtimeconfig.json
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\bin\Debug\netcoreapp2.1\Lecture_8.runtimeconfig.dev.json
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\bin\Debug\netcoreapp2.1\Lecture_8.dll
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\bin\Debug\netcoreapp2.1\Lecture_8.pdb
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.csprojAssemblyReference.cache
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.csproj.CoreCompileInputs.cache
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.AssemblyInfoInputs.cache
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.AssemblyInfo.cs
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.dll
+C:\Users\waiti\Documents\Repositories\C# 190626\C-VCS-190626\Lecture_8\Lecture_8\Lecture_8\obj\Debug\netcoreapp2.1\Lecture_8.pdb
