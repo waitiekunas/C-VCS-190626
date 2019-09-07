@@ -24,5 +24,14 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Button myButton = sender as Button;
+            if(sender is Button)
+            {
+                MyText.Text = "pressed";
+            }
+        }
     }
 }
